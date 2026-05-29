@@ -1,0 +1,11 @@
+# Compiled binary
+/nano-mac-throttle
+
+# Swift build artifacts
+.build/
+
+# Local Claude settings
+.claude/
+
+# macOS
+.DS_Store
